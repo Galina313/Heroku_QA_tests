@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# Except for the src directory
+!src
+
+# And any top-level JS or TS files
+!/*.js
+!/*.mjs
+!/*.ts
+!/*.mts
+
+node_modules
